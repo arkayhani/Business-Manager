@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\bin\Debug\ROR.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\obj\Debug\ROR.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\obj\Debug\ROR.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\obj\Debug\ROR.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\bin\Debug\ROR.exe
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\bin\Debug\ROR.pdb
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\obj\Debug\ROR.exe
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\obj\Debug\ROR.pdb
+c:\users\hp\documents\visual studio 2012\Projects\ROR\ROR\obj\Debug\ROR.Form1.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\ROR\ROR\obj\Debug\ROR.Form2.resources
